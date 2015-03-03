@@ -23,7 +23,7 @@
     "require": {
         "php": ">=5.3.23",
         "zendframework/zend-filter": "~2.0",
-        "kanellov/transelot": "dev-master"
+        "kanellov/transelot": "~0.1"
     },
     "require-dev": {
         "funkatron/funit": "0.6.0"
